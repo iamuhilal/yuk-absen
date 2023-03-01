@@ -126,7 +126,7 @@ if (isset($_POST["update"])) {
 
       <!-- main -->
       <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-        <h3 class="text-center">Update Data Pribadi</h3>
+        <h3 class="text-center">Update Profile</h3>
         <hr>
 
         <div class="mt-5  container">
