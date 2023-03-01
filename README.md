@@ -12,39 +12,48 @@ Yuk Absen is a simple application attendance roll base on website,whoever can ma
 ## Screenshot 📸
 
 <img src="screenshot/1. Index.png" height="300" style="border: 2px solid #111;">
-<figcaption>Main screen when web application load first, user can input code to fill attendance roll, or make attendace roll session.</figcaption>
+<p>Main screen when web application load first, user can input code to fill attendance roll, or make attendace roll session.</p>
+<br>
 <br>
 
 **- Check Attendance**
 
 <img src="screenshot/7. Form Attendance Roll.png" height="300" style="border: 2px solid #111;">
-<figcaption>Fill Attendance Roll page load load when user fill Attendance roll code and click <span style="background-color: #3B71CA; padding: 2px 6px; color:white">Check</span> also the code was correct, and user can fill the form.</figcaption>
+<p>Fill Attendance Roll page load load when user fill Attendance roll code and click <span style="background-color: #3B71CA; padding: 2px 6px; color:white">Check</span> also the code was correct, and user can fill the form.</p>
+<br>
 <br>
 
 <img src="screenshot/8. Attendance Roll Done.png" height="300" style="border: 2px solid #111;">
-<figcaption>After click <span style="background-color: #3B71CA; padding: 2px 6px; color:white">Submit</span> button, a new page will popup to inform user the attendance roll has been submit.</figcaption>
+<p>After click <span style="background-color: #3B71CA; padding: 2px 6px; color:white">Submit</span> button, a new page will popup to inform user the attendance roll has been submit.</p>
+<br>
 <br>
 
 **- Make An Attendance Roll**
+<br>
+<br>
 
 <img src="screenshot/2. Login.png" height="300" style="border: 2px solid #111;">
-<figcaption>Login screen load when user click <span style="background-color: #332D2D; padding: 2px 6px; color:white">Make Attendance Roll</span> button on main screen, user can login to make attendance roll or sign up first if user doesn't have an account.</figcaption>
+<p>Login screen load when user click <span style="background-color: #332D2D; padding: 2px 6px; color:white">Make Attendance Roll</span> button on main screen, user can login to make attendance roll or sign up first if user doesn't have an account.</p>
+<br>
 <br>
 
 <img src="screenshot/3. Make Attendance.png" height="300" style="border: 2px solid #111;">
-<figcaption>Make Attendance page load on first dashboard page when user has login, user can make a attendance roll session.</figcaption>
+<p>Make Attendance page load on first dashboard page when user has login, user can make a attendance roll session.</p>
+<br>
 <br>
 
 <img src="screenshot/4. Attendance Roll List.png" height="300" style="border: 2px solid #111;">
-<figcaption>Attendance Roll List is a page of all attendance roll session has been made by user, user can delete session by click <span style="background-color: #DC4C64; padding: 5px 6px; color:white">Delete</span> on the list, or see the detail off session by click <span style="background-color: #E4A11B; padding: 5px 6px; color:black">Details</span>.</figcaption>
+<p>Attendance Roll List is a page of all attendance roll session has been made by user, user can delete session by click <span style="background-color: #DC4C64; padding: 5px 6px; color:white">Delete</span> on the list, or see the detail off session by click <span style="background-color: #E4A11B; padding: 5px 6px; color:black">Details</span>.</p>
+<br>
 <br>
 
 <img src="screenshot/5. Student List.png" height="300" style="border: 2px solid #111;">
-<figcaption>Student List is a page of all student has fill the attendance roll in a session.</figcaption>
+<p>Student List is a page of all student has fill the attendance roll in a session.</p>
+<br>
 <br>
 
 <img src="screenshot/6. Update Profile.png" height="300" style="border: 2px solid #111;">
-<figcaption>User can update their profile by open tab profile while login on Update Profile's Page.</figcaption>
+<p>User can update their profile by open tab profile while login on Update Profile's Page.</p>
 <br>
 
 ---
